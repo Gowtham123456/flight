@@ -1,0 +1,7 @@
+flight2\Application.class
+flight2\guice\AppModule.class
+flight2\HelloServiceImpl.class
+flight2\HelloService.class
+flight2\guice\AppServletContextListener.class
+flight2\HelloResource.class
+flight2\ThrowableMapper.class
